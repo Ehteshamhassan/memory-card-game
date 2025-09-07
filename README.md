@@ -14,8 +14,7 @@ HTML – structure
 CSS – styling & layout
 JavaScript – game logic, DOM manipulation
 
->>Author
-
+>>Author<<
 Ehtesham Hassan
 ehteshamhassan435@gmail.com
 https://github.com/Ehteshamhassan
